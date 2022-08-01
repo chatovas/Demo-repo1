@@ -1,2 +1,2 @@
 # QR Code Component
-some description
+some description!
